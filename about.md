@@ -1,15 +1,11 @@
 ---
 layout: page
-title: About
+title: О сайте
 permalink: /about/
 ---
+Существует байка, что хотя Исаак Ньютон был членом Парламента Англии, но парламентарием был никудышным и в своей единственной речи в зале заседания заявил, что следовало бы закрыть окна, а то холодно, и дует. Правда или вымысел, но история занятная. А мы, ну да, так названы.
 
-Some information about you!
+![arxiv]({{ site.url }}/images/isaac_letter.jpg)
 
-### More Information
+Комментарии, вопросы, слова благодарности и гневную критику можете прислать нам на почту [zakroiteduet@gmail.com](mailto:email@domain.com), мы будем рады.
 
-A place to include any other types of information that you'd like to include about yourself. 
-
-### Contact me
-
-[email@domain.com](mailto:email@domain.com)

@@ -45,22 +45,23 @@ h1, h2, h3, h4, h5, h6 {
 }
   
 h1 {  
-  font-size: 30px;
+  font-size: 24px;
   a {
+    text-decoration: none;
     color: inherit;
   }
 }
 
 h2 {  
-  font-size: 24px;
-}
-
-h3 {  
   font-size: 20px;
 }
 
-h4 {  
+h3 {  
   font-size: 18px;
+}
+
+h4 {  
+  font-size: 15px;
   color: $gray;
 }
 
@@ -70,7 +71,7 @@ p {
 
 a {
   color: $blue;
-  text-decoration: none;
+  text-decoration: underline;
 	cursor: pointer;
   &:hover, &:active {
     color: $blue;
@@ -209,7 +210,8 @@ nav {
   float: right;
   margin-top: 23px; // @TODO: Vertically middle align
   font-family: $helveticaNeue; 
-  font-size: 18px;
+  font-size: 20px;
+  text-decoration: underline;
   
   @include mobile {
     float: none;
@@ -252,7 +254,7 @@ nav {
     border-left: 2px solid $gray;
     padding: 0.1em 1em;
     color: $gray;
-    font-size: 22px;
+    font-size: 18px;
     font-style: italic;
   }
 

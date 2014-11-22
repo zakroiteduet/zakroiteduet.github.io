@@ -1,3 +1,8 @@
+//
+// IMPORTS
+//
+@import url('http://fonts.googleapis.com/css?family=PT+Sans&subset=latin,cyrillic');
+@import url('http://fonts.googleapis.com/css?family=PT+Serif&subset=latin,cyrillic');
 
 //
 // VARIABLES
@@ -15,9 +20,12 @@ $lightGray: #eee;
 $white: #fff;
 
 // Font stacks
-$helvetica: Helvetica, Arial, sans-serif;
-$helveticaNeue: "Helvetica Neue", Helvetica, Arial, sans-serif;
+$helvetica: "PT Sans", Helvetica, Arial, sans-serif;
+$helveticaNeue: "PT Sans", "Helvetica Neue", Helvetica, Arial, sans-serif;
 $georgia: Georgia, serif;
+$cambria: cambria, Georgia, serif;
+
+
 
 // Mobile breakpoints
 @mixin mobile {
