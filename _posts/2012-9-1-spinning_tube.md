@@ -2,7 +2,7 @@
 layout: post
 title: Spinning Tube Trick
 ---
-Простите, люди добрые, но этот ролик на английском, потому как является видео-ответом на задачу с канала ((http://www.youtube.com/user/1veritasium 1veritasium)).
+Простите, люди добрые, но этот ролик на английском, потому как является видео-ответом на задачу с канала [veritasium](http://www.youtube.com/user/1veritasium).
 
 <iframe width="640" height="360" src="http://www.youtube.com/embed/wQTVcaA3PQw?rel=0" frameborder="0" allowfullscreen></iframe>
 
