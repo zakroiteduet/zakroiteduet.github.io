@@ -3,6 +3,9 @@ layout: page
 title: Видео
 permalink: /video/
 ---
+###Сила Кориолиса
+<iframe width="560" height="315" src="//www.youtube.com/embed/_s3mnmu2h3M" frameborder="0" allowfullscreen></iframe>
+
 ###Маятник Капицы
 <iframe width="560" height="315" src="//www.youtube.com/embed/u_-KCEhA1bU" frameborder="0" allowfullscreen></iframe>
 
