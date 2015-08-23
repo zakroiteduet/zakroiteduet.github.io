@@ -12,7 +12,7 @@ permalink: /tests/
 #### Заголовок \\(\delta\\)
 
 
-This is a text with a footnote[^1].
+This is a text with a footnote[[^1]].
 
 
 This is a text with another footnote[^2].
@@ -40,9 +40,9 @@ end
 {% endhighlight %}
 
 
-+   Red
-+   Green
-+   Blue
++   *Red*{: style="color: red"}
++   Green{: style="color: green"}
++   Blue{: style="color: blue"}
 
 Emoji
 
@@ -81,6 +81,10 @@ e =  10^{-18,8}\,\text{Кл}
   5 \T & 1/6 \\\hline
   6 \T & 1/6 \\\hline
 \end{array}
+
+Visualize it:
+
+<iframe src="http://bl.ocks.org/mbostock/raw/4061502/0a200ddf998aa75dfdb1ff32e16b680a15e5cb01/" marginwidth="0" marginheight="0" scrolling="no"></iframe>
 
 
 This is an HTML
