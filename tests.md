@@ -87,8 +87,6 @@ e =  10^{-18,8}\,\text{Кл}
 
 Visualize it:
 
-<iframe src="/mbostock/raw/4061502/0a200ddf998aa75dfdb1ff32e16b680a15e5cb01/" scrolling="no"></iframe>
-
 
 [^2]:
     And here is the definition.
