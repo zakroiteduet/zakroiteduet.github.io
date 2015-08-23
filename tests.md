@@ -75,3 +75,26 @@ e =  10^{-18,8}\,\text{Кл}
   5 \T & 1/6 \\\hline
   6 \T & 1/6 \\\hline
 \end{array}
+
+
+This is an HTML
+example.
+
+*[HTML]: Hyper Text Markup Language
+
+
+
+This is a text with a
+footnote[^2].
+
+[^2]:
+    And here is the definition.
+
+    > With a quote!
+
+
+This is *red*{: style="color: red"}.
+
+This is <span style="color: red">written in
+red</span>.
+
