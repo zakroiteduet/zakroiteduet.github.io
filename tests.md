@@ -12,6 +12,12 @@ permalink: /tests/
 #### Заголовок \\(\delta\\)
 
 
+This is a text with a footnote[^1].
+
+
+This is a text with another footnote[^2].
+
+
 Code:
 
     def power(x, y=0):
@@ -83,10 +89,6 @@ example.
 *[HTML]: Hyper Text Markup Language
 
 
-
-This is a text with a
-footnote[^2].
-
 [^2]:
     And here is the definition.
 
@@ -98,3 +100,6 @@ This is *red*{: style="color: red"}.
 This is <span style="color: red">written in
 red</span>.
 
+
+
+[^1]: And here is the definition.
