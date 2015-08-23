@@ -17,6 +17,12 @@ Code:
     def power(x, y=0):
     	return x**y
 
+~~~ ruby
+def what?
+  42
+end
+~~~
+
 {% highlight ruby %}
 def show
   @widget = Widget(params[:id])
@@ -35,6 +41,19 @@ end
 Emoji
 
 :angry: :skull: :scream:
+
+Tables
+
+| Header1 | Header2 | Header3 |
+|:--------|:-------:|--------:|
+| cell1   | cell2   | cell3   |
+| cell4   | cell5   | cell6   |
+|----
+| cell1   | cell2   | cell3   |
+| cell4   | cell5   | cell6   |
+|=====
+| Foot1   | Foot2   | Foot3
+{: rules="groups"}
 
 
 Исходя из этого мы найдем заряд электрона. Он, будучи атомной единицей электрического заряда, равен отношению атомной единицы энергии к атомной единице напряжения, поэтому
