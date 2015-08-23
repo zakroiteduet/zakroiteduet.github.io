@@ -18,16 +18,16 @@ permalink: /tests/
 Сноска[^2].
 
 
+Расшифровка аббревиатуры СССР
+
+*[СССР]: Союз Советских социалистических республик
+
+
 Программный код:
 
     def power(x, y=0):
     	return x**y
 
-~~~ ruby
-def what?
-  42
-end
-~~~
 
 {% highlight ruby %}
 def show
@@ -41,16 +41,16 @@ end
 
 
 +   *Red*{: style="color: red"}
-+   Green{: style="color: green"}
-+   Blue{: style="color: blue"}
++   <span style="color: green">Green</span>
++   <span style="color: blue">Blue</span>
 
 Эмоджи
 
 :angry: :skull: :scream:
 
-Табюлицы
+Таблицы
 
-| Header1 | Header2 | Header3 |
+| Header1     | Header2    | Header3    |
 |:--------|:-------:|--------:|
 | cell1   | cell2   | cell3   |
 | cell4   | cell5   | cell6   |
@@ -62,19 +62,8 @@ end
 {: rules="groups"}
 
 
-|---
-| Default aligned | Left aligned | Center aligned | Right aligned
-|-|:-|:-:|-:
-| First body part | Second cell | Third cell | fourth cell
-| Second line |foo | **strong** | baz
-| Third line |quux | baz | bar
-|---
-| Second body
-| 2 line
-|===
-| Footer row
-
-
+Test text
+{: style="color:gray; font-size: 80%; text-align: center;"}
 
 Исходя из этого мы найдем заряд электрона. Он, будучи атомной единицей электрического заряда, равен отношению атомной единицы энергии к атомной единице напряжения, поэтому
 \begin{equation}
@@ -99,11 +88,6 @@ e =  10^{-18,8}\,\text{Кл}
 Visualize it:
 
 <iframe src="/mbostock/raw/4061502/0a200ddf998aa75dfdb1ff32e16b680a15e5cb01/" marginwidth="0" marginheight="0" scrolling="no"></iframe>
-
-
-Расшифровка аббревиатуры СССР
-
-*[СССР]: Союз Советских социалистических республик
 
 
 [^2]:
