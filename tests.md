@@ -12,13 +12,13 @@ permalink: /tests/
 #### Заголовок \\(\delta\\)
 
 
-This is a text with a footnote[[^1]].
+Сноска[[^1]].
 
 
-This is a text with another footnote[^2].
+Сноска[^2].
 
 
-Code:
+Программный код:
 
     def power(x, y=0):
     	return x**y
@@ -44,11 +44,11 @@ end
 +   Green{: style="color: green"}
 +   Blue{: style="color: blue"}
 
-Emoji
+Эмоджи
 
 :angry: :skull: :scream:
 
-Tables
+Табюлицы
 
 | Header1 | Header2 | Header3 |
 |:--------|:-------:|--------:|
@@ -60,6 +60,20 @@ Tables
 |=====
 | Foot1   | Foot2   | Foot3
 {: rules="groups"}
+
+
+|---
+| Default aligned | Left aligned | Center aligned | Right aligned
+|-|:-|:-:|-:
+| First body part | Second cell | Third cell | fourth cell
+| Second line |foo | **strong** | baz
+| Third line |quux | baz | bar
+|---
+| Second body
+| 2 line
+|===
+| Footer row
+
 
 
 Исходя из этого мы найдем заряд электрона. Он, будучи атомной единицей электрического заряда, равен отношению атомной единицы энергии к атомной единице напряжения, поэтому
@@ -84,13 +98,12 @@ e =  10^{-18,8}\,\text{Кл}
 
 Visualize it:
 
-<iframe src="http://bl.ocks.org/mbostock/raw/4061502/0a200ddf998aa75dfdb1ff32e16b680a15e5cb01/" marginwidth="0" marginheight="0" scrolling="no"></iframe>
+<iframe src="/mbostock/raw/4061502/0a200ddf998aa75dfdb1ff32e16b680a15e5cb01/" marginwidth="0" marginheight="0" scrolling="no"></iframe>
 
 
-This is an HTML
-example.
+Расшифровка аббревиатуры СССР
 
-*[HTML]: Hyper Text Markup Language
+*[СССР]: Союз Советских социалистических республик
 
 
 [^2]:
@@ -104,6 +117,8 @@ This is *red*{: style="color: red"}.
 This is <span style="color: red">written in
 red</span>.
 
+This *is*{:.underline} some `code`{:#id}{:.class}.
+A [link](test.html){:rel='something'} and some **tools**{:.tools}.
 
 
 [^1]: And here is the definition.
