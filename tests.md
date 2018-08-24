@@ -11,7 +11,7 @@ permalink: /tests/
 
 #### Заголовок \\(\delta\\)
 
-Test
+Test2
 
 Сноска[[^1]].
 
