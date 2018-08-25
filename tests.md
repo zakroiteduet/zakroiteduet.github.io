@@ -13,6 +13,8 @@ permalink: /tests/
 
 Test2
 
+Test $x=1$ test
+
 Сноска[[^1]].
 
 
@@ -51,6 +53,14 @@ end
 
 Таблицы
 
+| Tables        | Are           | Cool  |
+| ------------- |:-------------:| -----:|
+| col 3 is      | right-aligned | $1600 |
+| col 2 is      | centered      |   $12 |
+| zebra stripes | are neat      |    $1 |
+
+
+
 | Header1     | Header2    | Header3    |
 |:--------|:-------:|--------:|
 | cell1   | cell2   | cell3   |
@@ -75,15 +85,13 @@ e_0 = N^{-2/3}\,\text{Кл}=  10^{-18,3}\,\text{Кл}
 e =  10^{-18,8}\,\text{Кл}
 \end{equation}
 
-\newcommand\T{\Rule{0pt}{1em}{.3em}}
 \begin{array}{|c|c|}
-\hline X & P(X = i) \T \\\hline
-  1 \T & 1/6 \\\hline
-  2 \T & 1/6 \\\hline
-  3 \T & 1/6 \\\hline
-  4 \T & 1/6 \\\hline
-  5 \T & 1/6 \\\hline
-  6 \T & 1/6 \\\hline
+  \hline 
+  X  & P(X = i) \\\
+  \hline
+  1  & 1/6 \\\
+  2  & 1/6 
+  \hline
 \end{array}
 
 Visualize it:
