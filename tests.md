@@ -85,12 +85,13 @@ e_0 = N^{-2/3}\,\text{Кл}=  10^{-18,3}\,\text{Кл}
 e =  10^{-18,8}\,\text{Кл}
 \end{equation}
 
+
 \begin{array}{|c|c|}
   \hline 
-  X  & P(X = i) \\\
+  X  & P(X = i) \\\ 
   \hline
-  1  & 1/6 \\\
-  2  & 1/6 
+  1  & 1/6 \\\ 
+  2  & 1/6 \\\
   \hline
 \end{array}
 
