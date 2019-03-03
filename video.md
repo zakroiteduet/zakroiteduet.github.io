@@ -3,6 +3,15 @@ layout: page
 title: Видео
 permalink: /video/
 ---
+### Оптическая активность
+<iframe width="560" height="315" src="//www.youtube.com/embed/i04nF1CLKMc" frameborder="0" allowfullscreen></iframe>
+
+### Полное внутреннее отражение
+<iframe width="560" height="315" src="//www.youtube.com/embed/5J1eErMIb-k" frameborder="0" allowfullscreen></iframe>
+
+### Гауссова оптика
+<iframe width="560" height="315" src="//www.youtube.com/embed/IMyHgKAvX1I" frameborder="0" allowfullscreen></iframe>
+
 ### Сила Кориолиса
 
 <iframe width="560" height="315" src="//www.youtube.com/embed/_s3mnmu2h3M" frameborder="0" allowfullscreen></iframe>
