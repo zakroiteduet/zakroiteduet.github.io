@@ -27,9 +27,9 @@ permalink: /rainbow-ans/
 \sin\alpha = n\sin\beta
 \end{equation}
 
-мы получаем функцию $\theta(\alpha)$
+мы получаем функцию $\theta$
 \begin{equation}
-\theta = k\,180^\circ + 2\alpha-2(k+1)\mathrm{arcsin}\dfrac{\sin\alpha}{n}
+\theta(\alpha) = k\,180^\circ + 2\alpha-2(k+1)\mathrm{arcsin}\dfrac{\sin\alpha}{n}
 \end{equation}
 
  Чтобы найти, под каким углом концентрируются лучи, приравниваем производную этой функции к нулю
@@ -37,7 +37,7 @@ permalink: /rainbow-ans/
 \theta'(\alpha) = 2-2(k+1)\dfrac{\cos\alpha}{\sqrt{n^2-\sin^2\alpha}}=0
 \end{equation} 
 
-и после некоторых преобразований (умножения на знаменатель, возведение в квадрат, использования основного тригонометрического тождества) получаем одну единственную $\alpha^*$:
+и после некоторых преобразований получаем одну единственную $\alpha^{*}$:
 \begin{equation}
 \alpha^* = \mathrm{arctg}\sqrt{\dfrac{(k+1)^2-n^2}{n^2-1}}
 \end{equation}
