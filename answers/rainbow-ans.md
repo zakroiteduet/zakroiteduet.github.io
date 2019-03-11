@@ -37,7 +37,7 @@ permalink: /rainbow-ans/
 \theta'(\alpha) = 2-2(k+1)\dfrac{\cos\alpha}{\sqrt{n^2-\sin^2\alpha}}=0
 \end{equation} 
 
-и после некоторых преобразований получаем одну единственную $\alpha^{*}$:
+и после некоторых преобразований получаем одну единственную $\alpha^{\*}$:
 \begin{equation}
 \alpha^* = \mathrm{arctg}\sqrt{\dfrac{(k+1)^2-n^2}{n^2-1}}
 \end{equation}
