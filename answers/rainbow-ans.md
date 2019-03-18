@@ -70,7 +70,7 @@ permalink: /rainbow-ans/
 
 **6.** Рассмотрим простую модель распространения сейсмических волн внутри планеты. Ядро имеет радиус вдвое меньший радуюса планеты. Скрость волн в ядре в два раза меньше, чем в мантии. Землятрясение, произошедшее в некоторой точке поверхности планеты, испускает сейсмические лучи, которые, преломляясь и отражаясь на границе ядра, концентрируются на некотором расстоянии от точки землятрясения. Найдите это расстояние (угловое расстояние).
 
-<center><img src="/images/rainbow-4.png" width="600"/></center>
+<center><img src="/images/rainbow-4.png" width="500"/></center>
 
 
 
@@ -163,15 +163,26 @@ t = \frac{v_o \pm \sqrt{v_o^2-2gy}}{g}
 
 
 **6.** Обозначим углы как на картинке
-<center><img src="/images/rainbow-ans-4.png" width="600"/></center>
-Угловое расстояние между началом (землятрясение) и концом сейсмического луча равно $\theta = 2\phi-2\alpha+4\beta$. Углы $\alpha$ и $\beta$ связаны законом Снелла ($n=2$):
+<center><img src="/images/rainbow-ans-4.png" width="500"/></center>
+Угловое расстояние между началом (землятрясение) и концом сейсмического луча равно $\theta = 2\varphi-2\alpha+4\beta$. Углы $\alpha$ и $\beta$ связаны законом Снелла:
 \begin{equation}
-\sin\alpha = 2\sin\beta
+\sin\alpha = n\sin\beta
 \end{equation}
-а углы $\alpha$ и $\phi$ несложной геометрией (отношение радиусов равно $2$):
+A углы $\alpha$ и $\varphi$ связаны несложной геометрией. Расстояние от прямой, по которой начинает идти луч, до центра равно с одной тороны $R\sin\varphi$, а с другой стороны $r\sin\alpha$, где $R$ и $r$ --- радиусы планеты и ее ядра.
+
+Получается удобным выразить $\theta$ через $\alpha$
 \begin{equation}
-\sin\alpha = 2\sin\phi
+\theta = -2\alpha + 2\mathrm{arcsin}\dfrac{\sin\alpha}{R/r} + 4\mathrm{arcsin}\dfrac{\sin\alpha}{n}
 \end{equation}
+По случайности в нашей задаче $n=R/r$ и равно $2$. Поэтому
+\begin{equation}
+\theta = -2\alpha + 6\mathrm{arcsin}\dfrac{\sin\alpha}{2} 
+\end{equation}
+А дальше все стандартно
+\begin{equation}
+\alpha^\* = \mathrm{arctg}\sqrt{\dfrac{9-4}{4-1}}
+\end{equation}
+
 
 
 
