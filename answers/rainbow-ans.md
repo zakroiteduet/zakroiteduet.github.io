@@ -180,7 +180,7 @@ A углы $\alpha$ и $\varphi$ связаны несложной геомет�
 \end{equation}
 А дальше все стандартно
 \begin{equation}
-\alpha^\* = \mathrm{arctg}\sqrt{\dfrac{9-4}{4-1}}
+\alpha^\* = \mathrm{arctg}\sqrt{\dfrac{5}{3}} \qquad \theta^\* = 35^\circ
 \end{equation}
 
 
