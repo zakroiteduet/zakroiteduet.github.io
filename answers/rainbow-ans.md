@@ -79,7 +79,9 @@ permalink: /rainbow-ans/
 y(t) = v_ot-\tfrac{1}{2}gt^2
 \end{equation}
 Если известна высота $y$, то из него можно найти $t$:
+\begin{equation}
 t = \frac{v_o \pm \sqrt{v_o^2-2gy}}{g}
+\end{equation}
 Подставляя в эту формулу данные в задаче высоты мы получим, что впервые на этих высотах тело побывает в такие времена
 \begin{array}{c|c}
 	высота, м & время, с \\\ 
