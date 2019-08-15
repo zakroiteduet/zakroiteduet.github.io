@@ -96,11 +96,11 @@ e =  10^{-18,8}\,\text{Кл}
 \end{array}
 
 \begin{equation}
-\left\\{\begin{array}{rl}
-	Н: & 1=\alpha+\delta \\\ 
-	м: & -1=\gamma+2\delta \\\
-	с: & -1=-\beta-\gamma \\\
-	Кл: & 0=-\alpha-2\delta \\\
+\left\\{\begin{array}{rrl}
+	Н: & 1=&\alpha+\delta \\\ 
+	м: & -1=&\gamma+2\delta \\\
+	с: & -1=&-\beta-\gamma \\\
+	Кл: & 0=&-\alpha-2\delta \\\
 \end{array}\right.
 \end{equation}
 
