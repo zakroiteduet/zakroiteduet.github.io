@@ -108,17 +108,16 @@ permalink: /scattering-ans/
 \begin{equation} P'=E^\alpha \omega^\beta c^\gamma R^2 \end{equation}
 тогда для размерностей мы имеем уравнение
 \begin{equation} дин\,см/с=(\sqrt{дин}/см)^\alpha с^{-\beta} (см/с)^\gamma см^2 \end{equation}
-\begin{equation} дин^1 cм^1 с^{-1} = дин^{\alpha/2} см^{\gamma+2} с^{-\beta-\gamma} \end{equation}
+\begin{equation} дин^1 см^1 с^{-1} = дин^{\alpha/2} см^{-\alpha+\gamma+2} с^{-\beta-\gamma} \end{equation}
 \begin{equation}
 \left\\{\begin{array}{rrl}
 	дин: & 1=&\alpha/2 \\\ 
-	см: & 1=&\gamma+2 \\\
+	см: & 1=&-\alpha+\gamma+2 \\\
 	с: & -1=&-\beta-\gamma \\\
 \end{array}\right.
 \end{equation}
 Эта система уравнений имеет единственное решение
-\begin{equation} \alpha=2 \qquad \beta=2 \qquad \gamma=-1 \end{equation}
+\begin{equation} \alpha=2 \qquad \beta=0 \qquad \gamma=1 \end{equation}
 поэтому с точностью до численного множителя
-\begin{equation} P'=\ldots E^2 c \end{equation}
-Поэтому мощность излучения, падающего на частицу-мишень радиуса $R$, равна $P'=\ldots jR^2=\ldots\frac{E^2 c}{k}R^2$.
+\begin{equation} P'=\ldots E^2 cR^2 \end{equation}
 
