@@ -39,23 +39,33 @@ permalink: /scattering-ans/
 
 **3.** Какова плотность потока энергии $j$ в электромагнитной волне с частотой $\omega$ и амплитудой электрического поля $E$? Оцените методом размернойтей. Плотность потока энергии $j$ --- это количество джоулей излучения, падающего за одну секунду на один квадратный метр поверхности.  
 
+Нам даны амплитуда волны $E$, ее частота $\omega$ и две константы входящие в уравнения Максвелла -- это скорость света $c$ и константа Кулона $k$. Мы ищем плотность пока энергии $j$. Выпишем их размерности:
+
 \begin{array}{c|c}
 	E & Н/Кл \\\ 
 	\omega & с^{-1} \\\
 	c & м/с \\\
 	k & Н\,м^2/Кл^2 \\\
 	\hline
-	j & Н/(с\,м) \\\ 
+	j & Н/(м\,с) \\\ 
 \end{array}
 
 Попробуем выразить $j$ как произведние $E,\omega,c,k$ в некоторых степенях
 \begin{equation} j=E^\alpha \omega^\beta c^\gamma k^\delta \end{equation}
 тогда для размерностей мы имеем уравнение
-\begin{equation} Н/(с\,м)=(Н/Кл)^\alpha с^{-\beta} (м/с)^\gamma (Н\,м^2/Кл^2)^\delta \end{equation}
-\begin{equation} Н\,с^{-1}\,м^{-1}= Н^{\alpha+\delta} с^{-\beta-\gamma} м^{\gamma+2\delta} Кл^{-\alpha-2\delta} \end{equation}
-\begin{equation} \alpha+\delta=1 \qquad -\beta-\gamma=-1 \qquad \gamma+2\delta=-1 \qquad -\alpha-2\delta=0 \end{equation}
+\begin{equation} Н/(м\,с)=(Н/Кл)^\alpha с^{-\beta} (м/с)^\gamma (Н\,м^2/Кл^2)^\delta \end{equation}
+\begin{equation} Н\,м^{-1}\,с^{-1}\,Кл^0= Н^{\alpha+\delta} с^{-\beta-\gamma} м^{\gamma+2\delta} Кл^{-\alpha-2\delta} \end{equation}
+\begin{equation}
+\left\\{\begin{array}{rrl}
+	Н: & 1=&\alpha+\delta \\\ 
+	м: & -1=&\gamma+2\delta \\\
+	с: & -1=&-\beta-\gamma \\\
+	Кл: & 0=&-\alpha-2\delta \\\
+\end{array}\right.
+\end{equation}
 Эта система уравнений имеет единственное решение
 \begin{equation} \alpha=2 \qquad \beta=0 \qquad \gamma=1 \qquad \delta=-1 \end{equation}
 поэтому с точностью до численного множителя
-\begin{equation} j=\frac{E^2 c}{k} \end{equation}
+\begin{equation} j=\ldots\frac{E^2 c}{k} \end{equation}
+Поэтому мощьность излучения, падающего на частицу-мишень радиуса $R$, равна $P=\ldots jR^2=\ldots\frac{E^2 c}{k}R^2$.
 
