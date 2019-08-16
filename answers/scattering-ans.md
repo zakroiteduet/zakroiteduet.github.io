@@ -5,7 +5,7 @@ permalink: /scattering-ans/
 ---
 
 <hr> 
-<a href="/reflection">**Условия задач**</a>
+<a href="/scattering">**Условия задач**</a>
 <hr> 
 
 
