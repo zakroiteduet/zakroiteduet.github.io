@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Релейевское рассеяние (решения)
+title: Релеевское рассеяние (решения)
 permalink: /scattering-ans/
 ---
 
