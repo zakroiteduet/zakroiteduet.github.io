@@ -3,6 +3,12 @@ layout: page
 title: Видео
 permalink: /video/
 ---
+### Релеевское рассеяние
+<iframe width="560" height="315" src="//www.youtube.com/embed/PG6p-QFjb2Y" frameborder="0" allowfullscreen></iframe>
+
+### Геометрия радуги
+<iframe width="560" height="315" src="//www.youtube.com/embed/_xu7ppUo300" frameborder="0" allowfullscreen></iframe>
+
 ### Оптическая активность
 <iframe width="560" height="315" src="//www.youtube.com/embed/i04nF1CLKMc" frameborder="0" allowfullscreen></iframe>
 
