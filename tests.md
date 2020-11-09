@@ -23,7 +23,7 @@ Test $x=1$ test
 
 Расшифровка аббревиатуры СССР
 
-<center><img src="/images/dec-d.gif" width="1280"/></center>
+<center><img src="/images/dec-d.gif" width="640"/></center>
 
 *[СССР]: Союз Советских социалистических республик
 
