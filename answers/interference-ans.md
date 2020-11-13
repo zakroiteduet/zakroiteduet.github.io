@@ -57,7 +57,7 @@ permalink: /interference-ans/
 \begin{equation} =a^2+ a^2+ a^2 +2a^2\cos\Delta\phi +2a^2\cos2\Delta\phi +2a^2\cos\Delta\phi= \end{equation}
 \begin{equation} =a^2(3+4\cos\Delta\varphi+2\cos2\Delta\varphi) \end{equation}
 
-График этой функции непросто построить вручную. Если только заметить, что $3+4\cos\Delta\varphi+2\cos2\Delta\varphi = (\sqrt{3}+2\cos\Delta\varphi)^2$. Значит график выглядит так:
+График этой функции непросто построить вручную. Если только заметить, что $3+4\cos\Delta\varphi+2\cos2\Delta\varphi = (1+2\cos\Delta\varphi)^2$. Значит график выглядит так:
 
 <center><img src="/images/inter-pic3.png" width="640"/></center>
 
