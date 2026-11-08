@@ -3,47 +3,50 @@ layout: page
 title: Видео
 permalink: /video/
 ---
+### Опыт Юнга, интерференция волн
+<iframe loading="lazy" width="560" height="315" src="https://www.youtube.com/embed/WUnZWu-6UHw" allowfullscreen></iframe>
+
 ### Релеевское рассеяние
-<iframe width="560" height="315" src="//www.youtube.com/embed/PG6p-QFjb2Y" frameborder="0" allowfullscreen></iframe>
+<iframe loading="lazy" width="560" height="315" src="https://www.youtube.com/embed/PG6p-QFjb2Y" allowfullscreen></iframe>
 
 ### Геометрия радуги
-<iframe width="560" height="315" src="//www.youtube.com/embed/_xu7ppUo300" frameborder="0" allowfullscreen></iframe>
+<iframe loading="lazy" width="560" height="315" src="https://www.youtube.com/embed/_xu7ppUo300" allowfullscreen></iframe>
 
 ### Оптическая активность
-<iframe width="560" height="315" src="//www.youtube.com/embed/i04nF1CLKMc" frameborder="0" allowfullscreen></iframe>
+<iframe loading="lazy" width="560" height="315" src="https://www.youtube.com/embed/i04nF1CLKMc" allowfullscreen></iframe>
 
 ### Полное внутреннее отражение
-<iframe width="560" height="315" src="//www.youtube.com/embed/5J1eErMIb-k" frameborder="0" allowfullscreen></iframe>
+<iframe loading="lazy" width="560" height="315" src="https://www.youtube.com/embed/5J1eErMIb-k" allowfullscreen></iframe>
 
 ### Гауссова оптика
-<iframe width="560" height="315" src="//www.youtube.com/embed/IMyHgKAvX1I" frameborder="0" allowfullscreen></iframe>
+<iframe loading="lazy" width="560" height="315" src="https://www.youtube.com/embed/IMyHgKAvX1I" allowfullscreen></iframe>
 
 ### Сила Кориолиса
 
-<iframe width="560" height="315" src="//www.youtube.com/embed/_s3mnmu2h3M" frameborder="0" allowfullscreen></iframe>
+<iframe loading="lazy" width="560" height="315" src="https://www.youtube.com/embed/_s3mnmu2h3M" allowfullscreen></iframe>
 
 ### Маятник Капицы
 
-<iframe width="560" height="315" src="//www.youtube.com/embed/u_-KCEhA1bU" frameborder="0" allowfullscreen></iframe>
+<iframe loading="lazy" width="560" height="315" src="https://www.youtube.com/embed/u_-KCEhA1bU" allowfullscreen></iframe>
 
 ### 24Гц. Стробоскопический эффект
 
-<iframe width="560" height="315" src="//www.youtube.com/embed/wKsAs4TONFc" frameborder="0" allowfullscreen></iframe>
+<iframe loading="lazy" width="560" height="315" src="https://www.youtube.com/embed/wKsAs4TONFc" allowfullscreen></iframe>
 
 ### Парадокс чаинок
 
-<iframe width="560" height="315" src="//www.youtube.com/embed/lQuKmZi7zvs" frameborder="0" allowfullscreen></iframe>
+<iframe loading="lazy" width="560" height="315" src="https://www.youtube.com/embed/lQuKmZi7zvs" allowfullscreen></iframe>
 
 ### Спектры. Спектроскоп своими руками
 
-<iframe width="560" height="315" src="//www.youtube.com/embed/di0_fB8i5iU" frameborder="0" allowfullscreen></iframe>
+<iframe loading="lazy" width="560" height="315" src="https://www.youtube.com/embed/di0_fB8i5iU" allowfullscreen></iframe>
 
 ### Задача про подкидывание книги
 
 #### Вопрос
 
-<iframe width="560" height="315" src="//www.youtube.com/embed/uIVYuKR707c" frameborder="0" allowfullscreen></iframe>
+<iframe loading="lazy" width="560" height="315" src="https://www.youtube.com/embed/uIVYuKR707c" allowfullscreen></iframe>
 
 #### Ответ
 
-<iframe width="560" height="315" src="//www.youtube.com/embed/WTbR1aIRlP8" frameborder="0" allowfullscreen></iframe>
+<iframe loading="lazy" width="560" height="315" src="https://www.youtube.com/embed/WTbR1aIRlP8" allowfullscreen></iframe>
